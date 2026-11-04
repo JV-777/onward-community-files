@@ -7,7 +7,7 @@ This is a fan-made repository intended to help clarify the game's rules and conc
 
 # Useful materials for the game
 ### This repository
- - Character Compendium - Contains English and Russian (fun-made translation) reference guides for all characters in the game, with descriptions of their abilities.
+ - Character Compendium - Contains English and Russian (fun-made translation) reference guides for all characters in the game, with descriptions of their abilities in pdf (you can download it by click "download raw file" in right corner).
  - ### [WIP] 
    Silence effect clarification - contains a reference guide for all ability cards affected by the silence effect.
 
